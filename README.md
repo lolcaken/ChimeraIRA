@@ -6,8 +6,6 @@ ChimeraIRA is a browser userscript cheat for [ireadarabic.com](https://www.iread
   <img src="assets/ui.png" width="640" alt="ChimeraIRA cheat panel centered over the IRA books page">
 </p>
 
-**Search terms:** ireadarabic hacks, ireadarabic cheat, IRA hacks, IRA cheat, ireadarabic auto level, ireadarabic quiz solver, ireadarabic level exam bypass, ireadarabic game unlocker.
-
 ## What it does
 
 **Reader**
