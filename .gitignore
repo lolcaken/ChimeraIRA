@@ -1,0 +1,12 @@
+node_modules/
+_dump/
+archive/
+.playwright-mcp/
+src/
+*.log
+dist/chimera-ira.clean.user.js
+AGENTS.md
+package.json
+package-lock.json
+build.mjs
+release.mjs
