@@ -1,6 +1,8 @@
 # ChimeraIRA
 
-ChimeraIRA is a browser userscript for [ireadarabic.com](https://www.ireadarabic.com). It adds a floating control panel that handles reading, book tasks, quizzes, level progression, and games from one place.
+ChimeraIRA is a browser userscript cheat for [ireadarabic.com](https://www.ireadarabic.com). It adds a floating control panel that handles reading, book tasks, quizzes, level progression, and games from one place.
+
+![ChimeraIRA panel](assets/ui.png)
 
 ## What it does
 
