@@ -2,11 +2,14 @@ node_modules/
 _dump/
 archive/
 .playwright-mcp/
+poc/
 src/
 *.log
 dist/chimera-ira.clean.user.js
+dist/chimera-ira.bookmarklet.plain.js
 AGENTS.md
 package.json
 package-lock.json
 build.mjs
 release.mjs
+bookmarklet.mjs
